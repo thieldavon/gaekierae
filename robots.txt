@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipaev.twochairs.games/sitemap.xml
